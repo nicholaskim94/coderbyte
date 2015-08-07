@@ -8,8 +8,7 @@ def LongestWord(sen)
       @longestWord = word
 	end
   end
-  return @longestWord
-         
+  return @longestWord       
 end
    
 # keep this function call here 
